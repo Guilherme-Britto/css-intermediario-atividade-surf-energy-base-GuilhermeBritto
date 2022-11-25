@@ -59,3 +59,17 @@ a {
   background-repeat: no-repeat;
   background-position: top;
 }
+
+.wave-1 img{
+  position: absolute;
+  width: 100vw;  
+}
+
+.wave-2 {
+  
+}
+
+.wave-2 img{
+  position: absolute;
+  width: 100vw;  
+}
