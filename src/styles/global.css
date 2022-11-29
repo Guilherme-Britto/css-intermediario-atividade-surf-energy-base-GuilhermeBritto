@@ -51,6 +51,7 @@ a {
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 16px;
+  position: sticky;
 }
 
 .bg-config-default-fixed {
@@ -58,18 +59,19 @@ a {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
+  position: relative;
 }
+
+
 
 .wave-1 img{
   position: absolute;
-  width: 100vw;  
-}
-
-.wave-2 {
-  
+  bottom: 0px;
+  width: 100vw;
 }
 
 .wave-2 img{
   position: absolute;
-  width: 100vw;  
+  top: 0px;
+  width: 100vw;
 }

@@ -8,7 +8,7 @@ h4 {
 }
 
 .home-header {
-  padding: 200px 0;
+  padding: 200px 0 300px 0;
   background-image: url(./../images/bg.jpg);
 }
 
@@ -28,6 +28,7 @@ h4 {
   margin-left: auto;
   margin-right: 80px;
 }
+
 .participants {
   padding: 50px 0;
 }
